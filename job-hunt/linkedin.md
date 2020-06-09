@@ -1,0 +1,22 @@
+# Linked
+
+- search "Looking for" in case employers looking for people using their profiles
+- find people the in tech, HR, top mgmt only if startup
+- technical recruiter, talent acquisition
+- personalize note when making connection
+	- introduce yourself
+	- wy you want to connect?
+	- add CTA (call to action) like setup phone or zoom call or arrange to meet for coffee
+	- can skip over if no response for 10-15 business days
+	- Accepted connection
+		- thank you them for connecting with you
+		- reiterate CTA
+- being active
+	- follow companies
+	- like and comment
+	- share conent relevant to your personal brand
+		- create your own blog posts
+		- share articles wrtten by thought leaders + business
+		- share photos of events you attended, thank the host
+		- share your projects, tell your audience what you've been working on
+	- use hashtags: use 2-3 relevant and specific hashtags when posting and sharing content
